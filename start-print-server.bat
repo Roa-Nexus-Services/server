@@ -1,4 +1,4 @@
 @echo off
-cd /d "%~dp0"
-node print-server.js
-pause
+cd /d "C:\Users\hp\Desktop\printer"
+start /B node print-server.js
+exit
